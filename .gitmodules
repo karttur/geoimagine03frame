@@ -1,0 +1,93 @@
+[submodule "ktpandas"]
+	path = ktpandas
+	url = https://github.com/karttur/geoimagine03-ktpandas
+[submodule "userproj"]
+	path = userproj
+	url = https://github.com/karttur/geoimagine03-userproj
+[submodule "dem"]
+	path = dem
+	url = https://github.com/karttur/geoimagine03-dem
+[submodule "ktnumba"]
+	path = ktnumba
+	url = https://github.com/karttur/geoimagine03-ktnumba
+[submodule "grass"]
+	path = grass
+	url = https://github.com/karttur/geoimagine03-grass
+[submodule "ktgdal"]
+	path = ktgdal
+	url = https://github.com/karttur/geoimagine03-ktgdal
+[submodule "zipper"]
+	path = zipper
+	url = https://github.com/karttur/geoimagine03-zipper
+[submodule "updatedb"]
+	path = updatedb
+	url = https://github.com/karttur/geoimagine03-updatedb
+[submodule "basins"]
+	path = basins
+	url = https://github.com/karttur/geoimagine03-basins
+[submodule "gis"]
+	path = gis
+	url = https://github.com/karttur/geoimagine03-gis
+[submodule "landsat"]
+	path = landsat
+	url = https://github.com/karttur/geoimagine03-landsat
+[submodule "layout"]
+	path = layout
+	url = https://github.com/karttur/geoimagine03-layout
+[submodule "projects"]
+	path = projects
+	url = https://github.com/karttur/geoimagine03-projects
+[submodule "grace"]
+	path = grace
+	url = https://github.com/karttur/geoimagine03-grace
+[submodule "smap"]
+	path = smap
+	url = https://github.com/karttur/geoimagine03-smap
+[submodule "params"]
+	path = params
+	url = https://github.com/karttur/geoimagine03-params
+[submodule "timeseries"]
+	path = timeseries
+	url = https://github.com/karttur/geoimagine03-timeseries
+[submodule "copernicus"]
+	path = copernicus
+	url = https://github.com/karttur/geoimagine03-copernicus
+[submodule "setup_processes"]
+	path = setup_processes
+	url = https://github.com/karttur/geoimagine03-setup_processes
+[submodule "npproc"]
+	path = npproc
+	url = https://github.com/karttur/geoimagine03-npproc
+[submodule "ktgrass"]
+	path = ktgrass
+	url = https://github.com/karttur/geoimagine03-ktgrass
+[submodule "ancillary"]
+	path = ancillary
+	url = https://github.com/karttur/geoimagine03-ancillary
+[submodule "sentinel"]
+	path = sentinel
+	url = https://github.com/karttur/geoimagine03-sentinel
+[submodule "setup_db"]
+	path = setup_db
+	url = https://github.com/karttur/geoimagine03-setup_db
+[submodule "extract"]
+	path = extract
+	url = https://github.com/karttur/geoimagine03-extract
+[submodule "region"]
+	path = region
+	url = https://github.com/karttur/geoimagine03-region
+[submodule "modis"]
+	path = modis
+	url = https://github.com/karttur/geoimagine03-modis
+[submodule "assets"]
+	path = assets
+	url = https://github.com/karttur/geoimagine03-assets
+[submodule "support"]
+	path = support
+	url = https://github.com/karttur/geoimagine03-support
+[submodule "postgresdb"]
+	path = postgresdb
+	url = https://github.com/karttur/geoimagine03-postgresdb
+[submodule "export"]
+	path = export
+	url = https://github.com/karttur/geoimagine03-export
